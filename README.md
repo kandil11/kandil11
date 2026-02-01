@@ -282,6 +282,5 @@ I'm always interested in collaborating on innovative projects, discussing system
 
 *"Transforming ideas into elegant solutions, one commit at a time."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00ffff&style=flat-square)
 
 </div>
