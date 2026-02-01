@@ -261,7 +261,7 @@ I'm always interested in collaborating on innovative projects, discussing system
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-kandil-)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.kandil@icloud.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://yourportfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-muhammad-kandil.vercel.app)
 
 **Available for internships, freelance projects, and full-time opportunities (Post-graduation: June 2027)**
 
